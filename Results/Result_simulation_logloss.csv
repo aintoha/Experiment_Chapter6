@@ -1,0 +1,8 @@
+Dataset,Empirical loss,
+,Out-of-sample,In-sample
+Data 1,1.446286,7.015544
+Data 1,2.475117,22.66495
+Boston ,3.493477,31.97605
+Old faithful,1.113645,3.320471
+Energy ,3.300547,18.15904
+Auto ,3.424956,27.87395
